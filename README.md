@@ -50,8 +50,12 @@
 
 
 
-
-
+<h2 align="center"> 🧮 Counter: </h2>
+<p align="center">
+  <a href="https://github.com/ESKYoung/shields-io-visitor-counter" target="_blank">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Alinshan&style=for-the-badge">
+<a>
+</p>
 
 
 
