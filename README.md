@@ -47,11 +47,14 @@
 
 
 <div align="center">
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alinshan&show_icons=true&locale=en&layout=compact" alt="Alinshan" /></p>
+</div>
 
+<div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alinshan&show_icons=true&theme=nightowl" alt="Alinshan" /></p>
+</details> </div>
 
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alinshan&theme=nightowl" alt="Alinshan" /></p>
 </details> </div>
 
