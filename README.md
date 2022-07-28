@@ -30,16 +30,15 @@
 
 
 
-
-
-
 <div align="center">
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/insights/user=Alinshan?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
-
+![Metrics](https://metrics.lecoq.io/Alinshan?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
 </div>
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
