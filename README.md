@@ -20,11 +20,11 @@
 
 - 🌱 I’m currently learning **node.js,Java,Python,Html**
 
-- 👯 I’m looking to collaborate with **other Developers**
+- 👯 I’m looking to collaborate with **other Content Creators**
 
 - 👨‍💻 All of my projects are [here](https://github.com/Alinshan?tab=repositories)
 
-- 💬 Ask me about **JavaScript,python,html,node.js**
+- 💬 Ask me about **JavaScript,Python,Html,Node.js**
 
 - 📫 How to reach me **errorxpredator404@gmail.com**
 
