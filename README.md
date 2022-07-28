@@ -36,7 +36,7 @@
 <div align="center">
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/insights?user=Alinshan?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/insights/user=Alinshan?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
 
 </div>
@@ -47,7 +47,7 @@
 
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alinshan&show_icons=true&locale=en&layout=compact" alt="Alinshan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alinshan&show_icons=true&theme=nightowl" alt="Alinshan" /></p>
 </div>
 
 <div align="center">
