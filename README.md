@@ -30,6 +30,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alinshan" alt="Alinshan" /></a> </p>
 
+<details>
+    <summary>「🧧」 <b>Follow Me On</b></summary><br/>
+<p align="center">
+  <a href="https://www.instagram.com/the_error_x46"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Alinshan"><img src="https://img.shields.io/badge/Github-FFF?style=for-the-badge&logo=Github&logoColor=000000&link=https://github.com/Alinshan" /></a>
+</p>
+
+</details>
+
 
 <div align="center">
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
