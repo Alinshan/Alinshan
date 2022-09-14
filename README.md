@@ -15,13 +15,11 @@
 
 - 🔭 I’m currently working on [PROFESSOR-BOT](https://github.com/Alinshan/PROFESSOR-BOT)
 
-- 🌱 I’m currently learning **JavaScript,Python,Html,Node.js**
+- 🌱 I’m currently learning **JavaScript,Python,Html,C,C++,Node.js**
 
 - 👯 I’m looking to collaborate with **other Content Creators**
 
 - 👨‍💻 All of my projects are [here](https://github.com/Alinshan?tab=repositories)
-
-- 💬 Ask me about **JavaScript,Python,Html,Node.js**
 
 - 📫 How to reach me **errorxpredator404@gmail.com**
 
