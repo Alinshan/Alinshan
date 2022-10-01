@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [PROFESSOR-BOT](https://github.com/Alinshan/PROFESSOR-BOT)
 
-- 🌱 I’m currently learning **JavaScript,Python,Html,C,C++,Node.js**
+- 🌱 I’m currently learning **Java,Python,Html,C++,Node.js**
 
 - 👯 I’m looking to collaborate with **other Content Creators**
 
