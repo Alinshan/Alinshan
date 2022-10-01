@@ -21,25 +21,32 @@
 
 - 👨‍💻 All of my projects are [here](https://github.com/Alinshan?tab=repositories)
 
-- 📫 How to reach me **errorxpredator404@gmail.com**
 
+
+
+
+
+- 📫 How to reach me:
+
+  <a href="https://instagram.com/the_error_x46">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a
+
+  <a href="https://t.me/ERROR_X_PREDATOR">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a
+
+
+  <a href="mailto:errorxpredator404@gmail.com.com?subject=[%20FROM%20GITHUB%20]%20Enter%20your%20subject20%here">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alinshan&label=Profile%20views&color=0e75b6&style=flat" alt="Alinshan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alinshan" alt="Alinshan" /></a> </p>
-
-<details>
-    <summary>「🧧」 <b>Follow Me On</b></summary><br/>
-<p align="center">
-  <a href="https://www.instagram.com/the_error_x46"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Alinshan"><img src="https://img.shields.io/badge/Github-FFF?style=for-the-badge&logo=Github&logoColor=000000&link=https://github.com/Alinshan" /></a>
-</p>
-
-</details>
-
 
 <div align="center">
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
