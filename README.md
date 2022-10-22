@@ -8,8 +8,9 @@
 
 <h1 align="center">Hi 👋, I'm Alinshan</h1>
 
-<h3 align="center">Learning To Inspire Someone</h3>
-
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learning++To+Inspire+Someone&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
