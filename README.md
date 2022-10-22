@@ -6,7 +6,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Alinshan</h1>
+<h1 align="center">Hi, I'm Alinshan Welcome To My Profile
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learning++To+Inspire+Someone&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
