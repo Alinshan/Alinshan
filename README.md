@@ -27,7 +27,7 @@
 
 - 📫 How to reach me:
 
-  <a href="https://instagram.com/the_error_x46">
+  <a href="https://instagram.com/shaan.403">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a
@@ -38,7 +38,7 @@
   <a
 
 
-  <a href="mailto:errorxpredator404@gmail.com.com?subject=[%20FROM%20GITHUB%20]%20Enter%20your%20subject20%here">
+  <a href="mailto:alinshanar@gmail.com.com?subject=[%20FROM%20GITHUB%20]%20Enter%20your%20subject20%here">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
   
