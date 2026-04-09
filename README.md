@@ -35,13 +35,6 @@ I’m passionate about **offensive security**, building security tools, and shar
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alinshan&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alinshan&layout=compact&theme=tokyonight)
-
-
-
----
 
 ## 📫 Connect With Me
 [![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](alinshan_)  
