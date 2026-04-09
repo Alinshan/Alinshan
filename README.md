@@ -1,25 +1,65 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/typing.svg" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Alinshan%20AR&fontSize=90&animation=fadeIn&fontAlignY=38" />
 </p>
 
-# whoami 🔴 Cybersecurity Researcher — Offensive security specialist focusing on Web App Security, VAPT, and Bug Bounty Hunting 🔐 PenTester — Expertise in Network Security, Reconnaissance, Threat Modeling, and Incident Response 🤖 Developer — Full-stack capabilities with Python, Java, JavaScript, and Flutter for building security tools 📦 Secure Dev — Implementing OWASP best practices and building hardened software architectures ⚙️ Automation — Python & Bash scripting for security research and workflow optimization
-
----
-
-### 🛡️ Skill Showcase
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,ts,nodejs,react,flutter,mysql,mongodb,docker,aws,linux,bash,git,github,vscode" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9FE&width=435&lines=Cybersecurity+Researcher+🛡️;Penetration+Tester+🔐;Bug+Bounty+Hunter+🐛;Full+Stack+Developer+💻" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Statistics
+### 🟢 whoami
+
+**🔴 Cybersecurity Researcher** — Offensive security specialist focusing on **Web App Security**, **VAPT**, and **Bug Bounty Hunting**. I specialize in identifying critical vulnerabilities and implementing robust mitigation strategies.
+
+**🔐 PenTester** — Expertise in **Network Security**, **Reconnaissance**, **Threat Modeling**, and **Incident Response**. I help organizations harden their infrastructure against advanced adversaries.
+
+**🤖 Developer** — Full-stack developer proficient in **Python**, **Java**, **JavaScript**, and **Flutter**. I build custom security tools and automation frameworks to streamline offensive operations.
+
+**📦 Secure Dev** — Passionate about **Secure Software Development Life Cycle (S-SDLC)**, implementing OWASP best practices, and building hardened software architectures from the ground up.
+
+**⚙️ Automation** — Leverage **Python** & **Bash** scripting for large-scale security research, data analysis, and workflow optimization.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### 🛡️ Cybersecurity & Infrastructure
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,aws,docker,kali,pennant,security" />
+  </a>
+</p>
+
+#### 💻 Development & Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,js,ts,nodejs,react,flutter,mysql,mongodb,sqlite" />
+  </a>
+</p>
+
+#### ⚙️ Engineering Tools
+<p align="left">
+  <a href="https://skillicons.dev)
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alinshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Alinshan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alinshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Alinshan's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alinshan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alinshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
@@ -42,13 +82,6 @@
   </a>
 </p>
 
----
-
 <p align="center">
-  <i>"Security is not a product, but a process."</i><br>
-  <b>— Bruce Schneier</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
