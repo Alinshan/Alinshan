@@ -51,12 +51,6 @@ I’m passionate about **offensive security**, building security tools, and shar
 
 ---
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=50&text=Intelligence%20Report&fontSize=30" />
-</p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alinshan&theme=radical" alt="Alinshan's Stats" />
 </p>
