@@ -58,11 +58,6 @@ I’m passionate about **offensive security**, building security tools, and shar
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffd700&height=50&text=Secure%20Channel&fontSize=30&fontColor=000" />
-</p>
-
-
 
 💡 *"Security is not a product, but a process."* – Bruce Schneier  
 
