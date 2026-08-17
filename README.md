@@ -2,9 +2,9 @@
 
 <!-- Dynamic Typing Header -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Alinshan/Alinshan/raw/main/dark_mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Alinshan/Alinshan/raw/main/light_mode.svg">
-  <img src="https://github.com/Alinshan/Alinshan/raw/main/dark_mode.svg" width="100%" alt="Alinshan's GitHub Banner" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Alinshan/Alinshan/raw/main/dark_mode.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Alinshan/Alinshan/raw/main/light_mode.svg?v=3">
+  <img src="https://github.com/Alinshan/Alinshan/raw/main/dark_mode.svg?v=3" width="100%" alt="Alinshan's GitHub Banner" />
 </picture>
 
 <br/>
