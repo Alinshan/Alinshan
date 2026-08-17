@@ -29,7 +29,7 @@
 <p style="margin:0;color:#c9d1d9"><span style="color:#0969da">[■]</span> Secure software development & code review</p>
 <p style="margin:0;color:#c9d1d9"><span style="color:#0969da">[■]</span> CTF player & open-source contributor</p>
 <p style="margin:0;color:#c9d1d9">────────────────────────────────────</p>
-<p style="margin:0;color:#c9d1d9"><span style="color:#0969da;font-weight:bold">$</span> ▍</p>
+<p style="margin:0;color:#c9d1d9"><span style="color:#0969da;font-weight:bold">$</span> <img src="cursor.svg" height="20" style="vertical-align: middle;" /></p>
 </div>
 </div>
 </td>
