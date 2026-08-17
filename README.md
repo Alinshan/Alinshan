@@ -2,9 +2,9 @@
 
 <!-- Dynamic Typing Header -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alinshan/Alinshan/main/dark_mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alinshan/Alinshan/main/light_mode.svg">
-  <img src="https://raw.githubusercontent.com/Alinshan/Alinshan/main/dark_mode.svg" width="100%" alt="Alinshan's GitHub Banner" />
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+  <img src="dark_mode.svg" width="100%" alt="Alinshan's GitHub Banner" />
 </picture>
 
 <br/>
@@ -136,41 +136,6 @@
     </tr>
   </tbody>
 </table>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alinshan&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=00FF41&icon_color=00FF41&title_color=00FF41" />
-
-</td>
-<td align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alinshan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&text_color=00FF41&title_color=00FF41&langs_count=8" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://streak-stats.demolab.com/?user=Alinshan&theme=chartreuse-dark&hide_border=true&fire=00FF41&currStreakNum=00FF41&ring=00FF41&background=0D1117&sideNums=00FF41&sideLabels=00FF41&dates=00FF41&stroke=0D1117" height="180em" alt="GitHub Streak Stats" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Alinshan&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 
 </div>
 
