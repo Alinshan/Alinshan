@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td valign="top">
 <img src="terminal.svg?v=3" alt="About Me Terminal" width="280" />
