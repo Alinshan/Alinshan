@@ -20,7 +20,7 @@
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=55%25&height=90px&lines=%F0%9F%94%A7+root%40kali%3A~%23+nmap+-sV+target;Access+Granted;_%F0%9F%94%A5+BREACHING+THE+MATRIX;_%F0%9F%9A%80+AUTOMATING+EXPLOITS;_%F0%9F%94%A7+BUILDING+COUNTERMEASURES;)" alt="Terminal Animation" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=55%25&height=90px&lines=Breaking+Systems+to+Make+Them+Stronger;Automating+Security+Research;Building+Countermeasures)" alt="Terminal Animation" />
 
 </div>
 
