@@ -1,6 +1,5 @@
 <div align="center">
 
-[![Snake animation](https://raw.githubusercontent.com/Alinshan/Alinshan/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/Alinshan/Alinshan/output/github-contribution-grid-snake-dark.svg)
 
 # Hi there, I'm **Alinshan AR** 👋
 
