@@ -1,24 +1,13 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="Alinshan's GitHub profile" src="dark_mode.svg" />
-</picture>
 
-<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Alinshan+AR+%F0%9F%91%8B;Cybersecurity+Researcher;Penetration+Tester;Secure+Software+Developer;CTF+Player)](https://git.io/typing-svg)
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/Alinshan?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/Alinshan?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117&color=00FF41"/>
-  </a>
 
-</p>
 
 </div>
 
