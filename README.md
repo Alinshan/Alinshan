@@ -2,9 +2,9 @@
 
 <!-- Dynamic Typing Header -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Alinshan/Alinshan/raw/main/dark_mode.svg?v=3">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Alinshan/Alinshan/raw/main/light_mode.svg?v=3">
-  <img src="https://github.com/Alinshan/Alinshan/raw/main/dark_mode.svg?v=3" width="100%" alt="Alinshan's GitHub Banner" />
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Alinshan's GitHub profile" src="dark_mode.svg" />
 </picture>
 
 <br/>
@@ -17,10 +17,7 @@
   <a href="https://github.com/Alinshan?tab=followers">
     <img alt="Followers" src="https://img.shields.io/github/followers/Alinshan?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117&color=00FF41"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Alinshan&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <a href="https://github.com/Alinshan?tab=repositories&sort=stargazers">
-    <img alt="Total Stars" src="https://custom-icon-badges.demolab.com/github/stars/Alinshan?color=00FF41&style=for-the-badge&labelColor=0D1117&logo=star&logoColor=00FF41"/>
-  </a>
+
 </p>
 
 </div>
