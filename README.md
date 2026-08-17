@@ -2,15 +2,13 @@
 
 [![Snake animation](https://raw.githubusercontent.com/Alinshan/Alinshan/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/Alinshan/Alinshan/output/github-contribution-grid-snake-dark.svg)
 
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║  root@kali:~# echo $USER                                                 ║
-║  [■] ALINSHAN AR                                                         ║
-║                                                                          ║
-║  root@kali:~# cat /etc/role.conf                                         ║
-║  [■] CYBERSECURITY RESEARCHER  >  PENETRATION TESTER  >  DEVELOPER       ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
+# Hi there, I'm **Alinshan AR** 👋
+
+### 🚀 Cybersecurity Researcher | Penetration Tester | Developer
+
+---
+
+I'm a self-taught **cybersecurity enthusiast** passionate about offensive security, building security tools, and sharing knowledge.
 
 </div>
 
