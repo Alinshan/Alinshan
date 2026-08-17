@@ -8,23 +8,102 @@
 
 ## 👨‍💻 About Me
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                   │
-│   > whoami                                                        │
-│                                                                   │
-│   [■] Self-taught cybersecurity enthusiast                        │
-│   [■] Web application security & OWASP Top 10                    │
-│   [■] Vulnerability assessment & penetration testing             │
-│   [■] Bug bounty hunting & responsible disclosure                 │
-│   [■] Secure software development & code review                  │
-│   [■] CTF player & open-source contributor                        │
-│   [■] Always learning, always hacking (ethically 😄)            │
-│                                                                   │
-└─────────────────────────────────────────────────────────────────┘
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+```html
+<div class="terminal">
+  <div class="terminal-header">
+    <span class="dot red"></span>
+    <span class="dot yellow"></span>
+    <span class="dot green"></span>
+    <span class="title">alinshan@kali:~</span>
+  </div>
+  <div class="terminal-body">
+    <p><span class="prompt">$</span> cat about.txt</p>
+    <p>──────────────────────────────</p>
+    <p><span class="green">[■]</span> Self-taught cybersecurity enthusiast</p>
+    <p><span class="green">[■]</span> Web application security & OWASP Top 10</p>
+    <p><span class="green">[■]</span> Vulnerability assessment & penetration testing</p>
+    <p><span class="green">[■]</span> Bug bounty hunting & responsible disclosure</p>
+    <p><span class="green">[■]</span> Secure software development & code review</p>
+    <p><span class="green">[■]</span> CTF player & open-source contributor</p>
+    <p>──────────────────────────────</p>
+    <p><span class="prompt">$</span> <span class="cursor">_</span></p>
+  </div>
+</div>
 ```
 
-> *"The quieter you become, the more you can hear."* — Ram Dass
+</td>
+</tr>
+</table>
+
+</div>
+
+<style>
+  .terminal {
+    background: #0d1117;
+    border-radius: 8px;
+    border: 1px solid #30363d;
+    overflow: hidden;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+  }
+  .terminal-header {
+    background: #161b22;
+    padding: 10px 14px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    border-bottom: 1px solid #30363d;
+  }
+  .dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .dot.red { background: #ff5f56; }
+  .dot.yellow { background: #ffbd2e; }
+  .dot.green { background: #27c93f; }
+  .title {
+    color: #8b949e;
+    font-size: 13px;
+    margin-left: 10px;
+    font-family: 'SF Mono', 'Menlo', 'Consolas', monospace;
+  }
+  .terminal-body {
+    padding: 16px 20px;
+    font-family: 'SF Mono', 'Menlo', 'Consolas', monospace;
+    font-size: 14px;
+    line-height: 1.7;
+  }
+  .terminal-body p {
+    margin: 0;
+    padding: 0;
+    color: #c9d1d9;
+  }
+  .prompt {
+    color: #0969da;
+    font-weight: bold;
+  }
+  .green {
+    color: #0969da;
+  }
+  .cursor {
+    display: inline-block;
+    animation: blink 1s step-end infinite;
+    color: #0969da;
+  }
+  @keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+  }
+</style>
 
 ---
 
