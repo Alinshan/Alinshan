@@ -1,13 +1,6 @@
 <div align="center">
 
-<!-- Dynamic Typing Header -->
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Alinshan+AR+%F0%9F%91%8B;Cybersecurity+Researcher;Penetration+Tester;Secure+Software+Developer;CTF+Player)](https://git.io/typing-svg)
-
-<br/>
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Alinshan+AR+%F0%9F%91%8B;Cybersecurity+Researcher;Penetration+Tester;Secure+Software+Developer;CTF+Player)](https://git.io/typing-svg)
 
 </div>
 
@@ -50,16 +43,16 @@
     <tr>
       <td align="center"><b>🔒 Offensive Security</b></td>
       <td>
-        <img src="https://img.shields.io/badge/-Penetration%20Testing-00FF41?style=flat-square&labelColor=0D1117"/>
-        <img src="https://img.shields.io/badge/-Web%20App%20Security-00FF41?style=flat-square&labelColor=0D1117"/>
-        <img src="https://img.shields.io/badge/-Network%20Security-00FF41?style=flat-square&labelColor=0D1117"/>
-        <img src="https://img.shields.io/badge/-Vulnerability%20Assessment-00FF41?style=flat-square&labelColor=0D1117"/>
-        <img src="https://img.shields.io/badge/-Bug%20Bounty-00FF41?style=flat-square&labelColor=0D1117"/>
-        <img src="https://img.shields.io/badge/-Social%20Engineering-00FF41?style=flat-square&labelColor=0D1117"/>
-        <img src="https://img.shields.io/badge/-Threat%20Modeling-00FF41?style=flat-square&labelColor=0D1117"/>
-        <img src="https://img.shields.io/badge/-Incident%20Response-00FF41?style=flat-square&labelColor=0D1117"/>
-        <img src="https://img.shields.io/badge/-OSINT-00FF41?style=flat-square&labelColor=0D1117"/>
-        <img src="https://img.shields.io/badge/-Reverse%20Engineering-00FF41?style=flat-square&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/-Penetration%20Testing-0969DA?style=flat-square&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/-Web%20App%20Security-0969DA?style=flat-square&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/-Network%20Security-0969DA?style=flat-square&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/-Vulnerability%20Assessment-0969DA?style=flat-square&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/-Bug%20Bounty-0969DA?style=flat-square&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/-Social%20Engineering-0969DA?style=flat-square&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/-Threat%20Modeling-0969DA?style=flat-square&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/-Incident%20Response-0969DA?style=flat-square&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/-OSINT-0969DA?style=flat-square&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/-Reverse%20Engineering-0969DA?style=flat-square&labelColor=0D1117"/>
       </td>
     </tr>
     <tr>
@@ -72,7 +65,7 @@
         <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0D1117"/>
         <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&logoColor=white&labelColor=0D1117"/>
         <img src="https://img.shields.io/badge/SQLMap-CC2927?style=flat-square&logoColor=white&labelColor=0D1117"/>
-        <img src="https://img.shields.io/badge/Nikto-00FF41?style=flat-square&logoColor=white&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/Nikto-0969DA?style=flat-square&logoColor=white&labelColor=0D1117"/>
       </td>
     </tr>
     <tr>
@@ -131,7 +124,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alinshan&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alinshan&bg_color=0D1117&color=0969DA&line=0969DA&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -140,7 +133,7 @@
 ## 🎯 Current Focus
 
 ```python
-class AlinshnaAR:
+class AlinshanAR:
     def __init__(self):
         self.name          = "Alinshan AR"
         self.role          = "Cybersecurity Researcher & Developer"
@@ -165,11 +158,10 @@ class AlinshnaAR:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117)](https://github.com/Alinshan)
-[![Twitter / X](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=00FF41&labelColor=0D1117)](https://twitter.com/alinshan_)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=00FF41&labelColor=0D1117)](https://instagram.com/shaan.403)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Alinshan)
+[![Twitter / X](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117)](https://twitter.com/alinshan_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/shaan.403)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:alinshanar@gmail.com)
-
 
 </div>
 
@@ -177,6 +169,6 @@ class AlinshnaAR:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0969DA,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
