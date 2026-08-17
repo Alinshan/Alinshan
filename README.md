@@ -2,11 +2,26 @@
 
 [![Snake animation](https://raw.githubusercontent.com/Alinshan/Alinshan/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/Alinshan/Alinshan/output/github-contribution-grid-snake-dark.svg)
 
-# `> whoami`
+```
+ █████╗ ███╗   ██╗██████╗ ███████╗██╗  ██╗██╗     ██╗███╗   ██╗███████╗
+██╔══██╗████╗  ██║██╔══██╗██╔════╝██║  ██║██║     ██║████╗  ██║██╔════╝
+███████║██╔██╗ ██║██║  ██║███████╗███████║██║     ██║██╔██╗ ██║█████╗  
+██╔══██║██║╚██╗██║██║  ██║╚════██║██╔══██║██║     ██║██║╚██╗██║██╔══╝  
+██║  ██║██║ ╚████║██████╔╝███████║██║  ██║███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+```
 
-### Cybersecurity Researcher | Penetration Tester | Developer
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║  root@kali:~# echo $USER                                                 ║
+║  [■] ALINSHAN AR                                                         ║
+║                                                                          ║
+║  root@kali:~# cat /etc/role.conf                                         ║
+║  [■] CYBERSECURITY RESEARCHER  >  PENETRATION TESTER  >  DEVELOPER       ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=50%25&height=80px&lines=Breaking+Systems+to+Make+Them+Stronger;Building+Security+Tools;Always+Learning)" alt="Typing Animation" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=55%25&height=90px&lines=%F0%9F%94%A7+root%40kali%3A~%23+nmap+-sV+target;Access+Granted;_%F0%9F%94%A5+BREACHING+THE+MATRIX;_%F0%9F%9A%80+AUTOMATING+EXPLOITS;_%F0%9F%94%A7+BUILDING+COUNTERMEASURES;)" alt="Terminal Animation" />
 
 </div>
 
