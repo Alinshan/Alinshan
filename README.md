@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="dark_mode.svg" width="100%" alt="Alinshan's GitHub profile" />
+
 <!-- Dynamic Typing Header -->
 
 
