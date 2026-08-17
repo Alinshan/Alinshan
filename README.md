@@ -9,101 +9,33 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-
 <table>
 <tr>
 <td>
-
-```html
-<div class="terminal">
-  <div class="terminal-header">
-    <span class="dot red"></span>
-    <span class="dot yellow"></span>
-    <span class="dot green"></span>
-    <span class="title">alinshan@kali:~</span>
-  </div>
-  <div class="terminal-body">
-    <p><span class="prompt">$</span> cat about.txt</p>
-    <p>──────────────────────────────</p>
-    <p><span class="green">[■]</span> Self-taught cybersecurity enthusiast</p>
-    <p><span class="green">[■]</span> Web application security & OWASP Top 10</p>
-    <p><span class="green">[■]</span> Vulnerability assessment & penetration testing</p>
-    <p><span class="green">[■]</span> Bug bounty hunting & responsible disclosure</p>
-    <p><span class="green">[■]</span> Secure software development & code review</p>
-    <p><span class="green">[■]</span> CTF player & open-source contributor</p>
-    <p>──────────────────────────────</p>
-    <p><span class="prompt">$</span> <span class="cursor">_</span></p>
-  </div>
+<div style="background:#0d1117;border-radius:8px;border:1px solid #30363d;overflow:hidden;max-width:580px;margin:0 auto;text-align:left;font-family:'SF Mono','Menlo','Consolas',monospace">
+<div style="background:#161b22;padding:10px 14px;display:flex;align-items:center;gap:6px;border-bottom:1px solid #30363d">
+<span style="width:12px;height:12px;border-radius:50%;display:inline-block;background:#ff5f56"></span>
+<span style="width:12px;height:12px;border-radius:50%;display:inline-block;background:#ffbd2e"></span>
+<span style="width:12px;height:12px;border-radius:50%;display:inline-block;background:#27c93f"></span>
+<span style="color:#8b949e;font-size:13px;margin-left:10px">alinshan@kali:~</span>
 </div>
-```
-
+<div style="padding:16px 20px;font-size:14px;line-height:1.8">
+<p style="margin:0;color:#c9d1d9"><span style="color:#0969da;font-weight:bold">$</span> cat about.txt</p>
+<p style="margin:0;color:#c9d1d9">────────────────────────────────────</p>
+<p style="margin:0;color:#c9d1d9"><span style="color:#0969da">[■]</span> Self-taught cybersecurity enthusiast</p>
+<p style="margin:0;color:#c9d1d9"><span style="color:#0969da">[■]</span> Web application security & OWASP Top 10</p>
+<p style="margin:0;color:#c9d1d9"><span style="color:#0969da">[■]</span> Vulnerability assessment & penetration testing</p>
+<p style="margin:0;color:#c9d1d9"><span style="color:#0969da">[■]</span> Bug bounty hunting & responsible disclosure</p>
+<p style="margin:0;color:#c9d1d9"><span style="color:#0969da">[■]</span> Secure software development & code review</p>
+<p style="margin:0;color:#c9d1d9"><span style="color:#0969da">[■]</span> CTF player & open-source contributor</p>
+<p style="margin:0;color:#c9d1d9">────────────────────────────────────</p>
+<p style="margin:0;color:#c9d1d9"><span style="color:#0969da;font-weight:bold">$</span> ▍</p>
+</div>
+</div>
 </td>
 </tr>
 </table>
-
 </div>
-
-<style>
-  .terminal {
-    background: #0d1117;
-    border-radius: 8px;
-    border: 1px solid #30363d;
-    overflow: hidden;
-    max-width: 600px;
-    margin: 0 auto;
-    text-align: left;
-  }
-  .terminal-header {
-    background: #161b22;
-    padding: 10px 14px;
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    border-bottom: 1px solid #30363d;
-  }
-  .dot {
-    width: 12px;
-    height: 12px;
-    border-radius: 50%;
-    display: inline-block;
-  }
-  .dot.red { background: #ff5f56; }
-  .dot.yellow { background: #ffbd2e; }
-  .dot.green { background: #27c93f; }
-  .title {
-    color: #8b949e;
-    font-size: 13px;
-    margin-left: 10px;
-    font-family: 'SF Mono', 'Menlo', 'Consolas', monospace;
-  }
-  .terminal-body {
-    padding: 16px 20px;
-    font-family: 'SF Mono', 'Menlo', 'Consolas', monospace;
-    font-size: 14px;
-    line-height: 1.7;
-  }
-  .terminal-body p {
-    margin: 0;
-    padding: 0;
-    color: #c9d1d9;
-  }
-  .prompt {
-    color: #0969da;
-    font-weight: bold;
-  }
-  .green {
-    color: #0969da;
-  }
-  .cursor {
-    display: inline-block;
-    animation: blink 1s step-end infinite;
-    color: #0969da;
-  }
-  @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0; }
-  }
-</style>
 
 ---
 
