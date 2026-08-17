@@ -8,9 +8,7 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-  <img src="terminal.svg?v=2" alt="About Me Terminal" width="100%" style="max-width: 320px;" />
-</div>
+<img src="terminal.svg?v=3" alt="About Me Terminal" width="280" />
 
 ---
 
