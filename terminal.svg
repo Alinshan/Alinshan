@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="340" viewBox="0 0 580 340">
+  <defs>
+    <clipPath id="terminal-clip">
+      <rect width="580" height="340" rx="8" ry="8" />
+    </clipPath>
+    <clipPath id="type-clip">
+      <rect id="type-rect" x="35" y="45" width="0" height="25" />
+    </clipPath>
+  </defs>
+  <style>
+    @keyframes type-anim {
+      0%, 10% { width: 0; }
+      25%, 90% { width: 110px; }
+      95%, 100% { width: 0; }
+    }
+    @keyframes cursor-move {
+      0%, 10% { transform: translateX(0); }
+      25%, 90% { transform: translateX(110px); }
+      95%, 100% { transform: translateX(0); }
+    }
+    @keyframes cursor1-vis {
+      0%, 32% { opacity: 1; }
+      32.1%, 100% { opacity: 0; }
+    }
+    @keyframes cursor2-vis {
+      0%, 32% { opacity: 0; }
+      32.1%, 90% { opacity: 1; }
+      90.1%, 100% { opacity: 0; }
+    }
+    @keyframes output-vis {
+      0%, 32% { opacity: 0; }
+      32.1%, 90% { opacity: 1; }
+      90.1%, 100% { opacity: 0; }
+    }
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+
+    .terminal-text {
+      font-family: 'SF Mono', Menlo, Consolas, monospace;
+      font-size: 14px;
+      fill: #c9d1d9;
+    }
+    .blink-el {
+      animation: blink 0.8s step-end infinite;
+    }
+    #type-rect {
+      animation: type-anim 10s infinite;
+    }
+    #cursor-group-1 {
+      animation: cursor-move 10s infinite, cursor1-vis 10s infinite;
+    }
+    #cursor-group-2 {
+      animation: cursor2-vis 10s infinite;
+    }
+    #output-group {
+      animation: output-vis 10s infinite;
+    }
+  </style>
+  <g clip-path="url(#terminal-clip)">
+    <!-- Terminal Background -->
+    <rect width="580" height="340" fill="#0d1117" stroke="#30363d" stroke-width="2" />
+    
+    <!-- Terminal Header -->
+    <rect width="580" height="36" fill="#161b22" />
+    <circle cx="20" cy="18" r="6" fill="#ff5f56" />
+    <circle cx="38" cy="18" r="6" fill="#ffbd2e" />
+    <circle cx="56" cy="18" r="6" fill="#27c93f" />
+    <text x="76" y="23" fill="#8b949e" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13">alinshan@kali:~</text>
+    <line x1="0" y1="36" x2="580" y2="36" stroke="#30363d" stroke-width="1" />
+
+    <!-- Terminal Body -->
+    <g class="terminal-text">
+      <!-- Line 1: Prompt and typed command -->
+      <text x="20" y="64" fill="#0969da" font-weight="bold">$</text>
+      <text x="35" y="64" fill="#c9d1d9" clip-path="url(#type-clip)">cat about.txt</text>
+
+      <!-- Cursor 1 -->
+      <g id="cursor-group-1">
+        <rect class="blink-el" x="35" y="62" width="8" height="2" fill="#0969da" />
+      </g>
+
+      <!-- Output (Line 2 to 9) -->
+      <g id="output-group">
+        <text x="20" y="88" fill="#30363d">────────────────────────────────────</text>
+        
+        <text x="20" y="112" fill="#0969da">[■]</text>
+        <text x="48" y="112">Self-taught cybersecurity enthusiast</text>
+
+        <text x="20" y="136" fill="#0969da">[■]</text>
+        <text x="48" y="136">Web application security &amp; OWASP Top 10</text>
+
+        <text x="20" y="160" fill="#0969da">[■]</text>
+        <text x="48" y="160">Vulnerability assessment &amp; penetration testing</text>
+
+        <text x="20" y="184" fill="#0969da">[■]</text>
+        <text x="48" y="184">Bug bounty hunting &amp; responsible disclosure</text>
+
+        <text x="20" y="208" fill="#0969da">[■]</text>
+        <text x="48" y="208">Secure software development &amp; code review</text>
+
+        <text x="20" y="232" fill="#0969da">[■]</text>
+        <text x="48" y="232">CTF player &amp; open-source contributor</text>
+
+        <text x="20" y="256" fill="#30363d">────────────────────────────────────</text>
+        
+        <text x="20" y="280" fill="#0969da" font-weight="bold">$</text>
+      </g>
+
+      <!-- Cursor 2 -->
+      <g id="cursor-group-2">
+        <rect class="blink-el" x="35" y="278" width="8" height="2" fill="#0969da" />
+      </g>
+    </g>
+  </g>
+</svg>

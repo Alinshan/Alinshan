@@ -9,32 +9,7 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-<table>
-<tr>
-<td>
-<div style="background:#0d1117;border-radius:8px;border:1px solid #30363d;overflow:hidden;max-width:580px;margin:0 auto;text-align:left;font-family:'SF Mono','Menlo','Consolas',monospace">
-<div style="background:#161b22;padding:10px 14px;display:flex;align-items:center;gap:6px;border-bottom:1px solid #30363d">
-<span style="width:12px;height:12px;border-radius:50%;display:inline-block;background:#ff5f56"></span>
-<span style="width:12px;height:12px;border-radius:50%;display:inline-block;background:#ffbd2e"></span>
-<span style="width:12px;height:12px;border-radius:50%;display:inline-block;background:#27c93f"></span>
-<span style="color:#8b949e;font-size:13px;margin-left:10px">alinshan@kali:~</span>
-</div>
-<div style="padding:16px 20px;font-size:14px;line-height:1.8">
-<p style="margin:0;color:#c9d1d9"><span style="color:#0969da;font-weight:bold">$</span> cat about.txt</p>
-<p style="margin:0;color:#c9d1d9">────────────────────────────────────</p>
-<p style="margin:0;color:#c9d1d9"><span style="color:#0969da">[■]</span> Self-taught cybersecurity enthusiast</p>
-<p style="margin:0;color:#c9d1d9"><span style="color:#0969da">[■]</span> Web application security & OWASP Top 10</p>
-<p style="margin:0;color:#c9d1d9"><span style="color:#0969da">[■]</span> Vulnerability assessment & penetration testing</p>
-<p style="margin:0;color:#c9d1d9"><span style="color:#0969da">[■]</span> Bug bounty hunting & responsible disclosure</p>
-<p style="margin:0;color:#c9d1d9"><span style="color:#0969da">[■]</span> Secure software development & code review</p>
-<p style="margin:0;color:#c9d1d9"><span style="color:#0969da">[■]</span> CTF player & open-source contributor</p>
-<p style="margin:0;color:#c9d1d9">────────────────────────────────────</p>
-<p style="margin:0;color:#c9d1d9"><span style="color:#0969da;font-weight:bold">$</span> <img src="cursor.svg" height="20" style="vertical-align: middle;" /></p>
-</div>
-</div>
-</td>
-</tr>
-</table>
+  <img src="terminal.svg" alt="About Me Terminal" width="100%" style="max-width: 580px;" />
 </div>
 
 ---
