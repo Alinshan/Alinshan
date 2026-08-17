@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="185" viewBox="0 0 320 185">
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="200" viewBox="0 0 320 200">
   <defs>
     <clipPath id="terminal-clip">
-      <rect width="320" height="185" rx="5" ry="5" />
+      <rect width="320" height="200" rx="5" ry="5" />
     </clipPath>
     <clipPath id="type-clip">
       <rect id="type-rect" x="22" y="27" width="0" height="15" />
@@ -69,7 +69,7 @@
   </style>
   <g clip-path="url(#terminal-clip)">
     <!-- Terminal Background -->
-    <rect width="320" height="185" fill="url(#bg-grad)" stroke="url(#border-grad)" stroke-width="2" />
+    <rect width="320" height="200" fill="url(#bg-grad)" stroke="url(#border-grad)" stroke-width="2" />
     
     <!-- Terminal Header -->
     <rect width="320" height="24" fill="#161b22" />
@@ -90,7 +90,7 @@
         <rect class="blink-el" x="22" y="36" width="5" height="1.5" fill="#58a6ff" />
       </g>
 
-      <!-- Output (Line 2 to 9) -->
+      <!-- Output (Line 2 to 10) -->
       <g id="output-group">
         <line x1="12" y1="46" x2="308" y2="46" stroke="#21262d" stroke-width="1" />
         
@@ -110,16 +110,19 @@
         <text x="22" y="126">Secure Dev &amp; Code Review</text>
 
         <text x="12" y="142" fill="#58a6ff">❯</text>
-        <text x="22" y="142">CTF Player &amp; OSS Contributor</text>
+        <text x="22" y="142">CTF Player</text>
 
-        <line x1="12" y1="152" x2="308" y2="152" stroke="#21262d" stroke-width="1" />
+        <text x="12" y="158" fill="#58a6ff">❯</text>
+        <text x="22" y="158">Full Stack Developer</text>
+
+        <line x1="12" y1="168" x2="308" y2="168" stroke="#21262d" stroke-width="1" />
         
-        <text x="12" y="168" fill="#58a6ff" font-weight="bold">$</text>
+        <text x="12" y="185" fill="#58a6ff" font-weight="bold">$</text>
       </g>
 
       <!-- Cursor 2 -->
       <g id="cursor-group-2">
-        <rect class="blink-el" x="22" y="166" width="5" height="1.5" fill="#58a6ff" />
+        <rect class="blink-el" x="22" y="183" width="5" height="1.5" fill="#58a6ff" />
       </g>
     </g>
   </g>
