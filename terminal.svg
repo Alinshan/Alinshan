@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="460" height="250" viewBox="0 0 460 250">
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="200" viewBox="0 0 380 200">
   <defs>
     <clipPath id="terminal-clip">
-      <rect width="460" height="250" rx="8" ry="8" />
+      <rect width="380" height="200" rx="6" ry="6" />
     </clipPath>
     <clipPath id="type-clip">
-      <rect id="type-rect" x="32" y="35" width="0" height="20" />
+      <rect id="type-rect" x="28" y="32" width="0" height="16" />
     </clipPath>
     <linearGradient id="bg-grad" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#0d1117" />
@@ -19,12 +19,12 @@
   <style>
     @keyframes type-anim {
       0%, 10% { width: 0; }
-      25%, 90% { width: 98px; }
+      25%, 90% { width: 86px; }
       95%, 100% { width: 0; }
     }
     @keyframes cursor-move {
       0%, 10% { transform: translateX(0); }
-      25%, 90% { transform: translateX(98px); }
+      25%, 90% { transform: translateX(86px); }
       95%, 100% { transform: translateX(0); }
     }
     @keyframes cursor1-vis {
@@ -48,7 +48,7 @@
 
     .terminal-text {
       font-family: 'SF Mono', Menlo, Consolas, monospace;
-      font-size: 12.5px;
+      font-size: 11px;
       fill: #c9d1d9;
     }
     .blink-el {
@@ -69,57 +69,57 @@
   </style>
   <g clip-path="url(#terminal-clip)">
     <!-- Terminal Background -->
-    <rect width="460" height="250" fill="url(#bg-grad)" stroke="url(#border-grad)" stroke-width="2" />
+    <rect width="380" height="200" fill="url(#bg-grad)" stroke="url(#border-grad)" stroke-width="2" />
     
     <!-- Terminal Header -->
-    <rect width="460" height="30" fill="#161b22" />
-    <circle cx="18" cy="15" r="4.5" fill="#ff5f56" />
-    <circle cx="32" cy="15" r="4.5" fill="#ffbd2e" />
-    <circle cx="46" cy="15" r="4.5" fill="#27c93f" />
-    <text x="62" y="19" fill="#8b949e" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="11.5">alinshan@kali:~</text>
-    <line x1="0" y1="30" x2="460" y2="30" stroke="#30363d" stroke-width="1" />
+    <rect width="380" height="26" fill="#161b22" />
+    <circle cx="14" cy="13" r="3.5" fill="#ff5f56" />
+    <circle cx="24" cy="13" r="3.5" fill="#ffbd2e" />
+    <circle cx="34" cy="13" r="3.5" fill="#27c93f" />
+    <text x="48" y="16.5" fill="#8b949e" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="10">alinshan@kali:~</text>
+    <line x1="0" y1="26" x2="380" y2="26" stroke="#30363d" stroke-width="1" />
 
     <!-- Terminal Body -->
     <g class="terminal-text">
       <!-- Line 1: Prompt and typed command -->
-      <text x="20" y="50" fill="#58a6ff" font-weight="bold">$</text>
-      <text x="32" y="50" fill="#c9d1d9" clip-path="url(#type-clip)">cat about.txt</text>
+      <text x="16" y="44" fill="#58a6ff" font-weight="bold">$</text>
+      <text x="28" y="44" fill="#c9d1d9" clip-path="url(#type-clip)">cat about.txt</text>
 
       <!-- Cursor 1 -->
       <g id="cursor-group-1">
-        <rect class="blink-el" x="32" y="48" width="6" height="2" fill="#58a6ff" />
+        <rect class="blink-el" x="28" y="42" width="5" height="1.5" fill="#58a6ff" />
       </g>
 
       <!-- Output (Line 2 to 9) -->
       <g id="output-group">
-        <line x1="20" y1="64" x2="440" y2="64" stroke="#21262d" stroke-width="1" />
+        <line x1="16" y1="54" x2="364" y2="54" stroke="#21262d" stroke-width="1" />
         
-        <text x="20" y="85" fill="#58a6ff">❯</text>
-        <text x="35" y="85">Self-taught cybersecurity enthusiast</text>
+        <text x="16" y="72" fill="#58a6ff">❯</text>
+        <text x="28" y="72">Self-taught cybersecurity enthusiast</text>
 
-        <text x="20" y="105" fill="#58a6ff">❯</text>
-        <text x="35" y="105">Web application security &amp; OWASP Top 10</text>
+        <text x="16" y="89" fill="#58a6ff">❯</text>
+        <text x="28" y="89">Web application security &amp; OWASP Top 10</text>
 
-        <text x="20" y="125" fill="#58a6ff">❯</text>
-        <text x="35" y="125">Vulnerability assessment &amp; penetration testing</text>
+        <text x="16" y="106" fill="#58a6ff">❯</text>
+        <text x="28" y="106">Vulnerability assessment &amp; penetration testing</text>
 
-        <text x="20" y="145" fill="#58a6ff">❯</text>
-        <text x="35" y="145">Bug bounty hunting &amp; responsible disclosure</text>
+        <text x="16" y="123" fill="#58a6ff">❯</text>
+        <text x="28" y="123">Bug bounty hunting &amp; responsible disclosure</text>
 
-        <text x="20" y="165" fill="#58a6ff">❯</text>
-        <text x="35" y="165">Secure software development &amp; code review</text>
+        <text x="16" y="140" fill="#58a6ff">❯</text>
+        <text x="28" y="140">Secure software development &amp; code review</text>
 
-        <text x="20" y="185" fill="#58a6ff">❯</text>
-        <text x="35" y="185">CTF player &amp; open-source contributor</text>
+        <text x="16" y="157" fill="#58a6ff">❯</text>
+        <text x="28" y="157">CTF player &amp; open-source contributor</text>
 
-        <line x1="20" y1="199" x2="440" y2="199" stroke="#21262d" stroke-width="1" />
+        <line x1="16" y1="168" x2="364" y2="168" stroke="#21262d" stroke-width="1" />
         
-        <text x="20" y="220" fill="#58a6ff" font-weight="bold">$</text>
+        <text x="16" y="185" fill="#58a6ff" font-weight="bold">$</text>
       </g>
 
       <!-- Cursor 2 -->
       <g id="cursor-group-2">
-        <rect class="blink-el" x="32" y="218" width="6" height="2" fill="#58a6ff" />
+        <rect class="blink-el" x="28" y="183" width="5" height="1.5" fill="#58a6ff" />
       </g>
     </g>
   </g>
