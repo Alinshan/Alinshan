@@ -145,6 +145,7 @@ class AlinshanAR:
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/alinshan-a-r-511a82307/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Alinshan)
 [![Twitter / X](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117)](https://twitter.com/alinshan_)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/shaan.403)
